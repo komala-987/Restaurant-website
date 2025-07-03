@@ -11,7 +11,7 @@ This is a simple and responsive **static website** for a fictional restaurant, b
 ## 🛠️ Technologies Used:
 - HTML5
 - CSS3
-## project live demo: https://komala.github.io/webproject/
+## project live demo: https://komala-987.github.io/Restaurant-website/
 
 Restaurant_Static_Website/
 ├── index.html
